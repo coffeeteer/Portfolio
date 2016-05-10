@@ -1,0 +1,8 @@
+body { 
+	padding-top: 70px;
+	background-color: #BADA55; 
+}
+
+.navbar, .navbar-default, .navbar-fixed-top, .navbar-right {
+	float: right;
+}
