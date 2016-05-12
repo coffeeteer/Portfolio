@@ -1,8 +1,71 @@
 body { 
 	padding-top: 70px;
-	background-color: #BADA55; 
+	/*background-color: blue;*/
+	 
 }
 
-.navbar, .navbar-default, .navbar-fixed-top, .navbar-right {
-	float: right;
+#frst_content {
+	margin-left: 15%;
+	
 }
+
+.row {
+	/*background-color: blue;*/
+/*	background-image: url("images/wov.png");*/
+}
+
+.page-header {
+	text-indent: 5%;
+}
+
+.para_content {
+	font-size: 14pt;
+}
+
+.first_header {
+	font-size: 35pt;
+	font-family: 'Sigmar One', cursive;
+}
+
+.para_content, .label_text {
+	font-family: 'Kadwa', serif;
+}
+
+.nav, .nav-pills {
+	float: right;
+	padding: 10px 25px 10px 0;
+}
+
+.icons {
+	width: 40px;
+	margin: 0 auto;
+}
+
+.first_icon {
+	padding-left: 7px;
+}
+
+#icon_container {
+	border: solid black 1px;
+	padding: 2px 4px;
+	margin-left: 40px;
+	width: 145px;
+}
+
+form {
+	width: 70%;
+	margin: 0 auto;
+}
+
+#msg {
+	position: relative;
+	left: 92px;
+	top: -15px;
+}
+
+./*clear_btn, .sub_btn {
+	margin: 10px 20px;	
+	font-size: 14pt;
+	padding: 10px 20px;
+	border-radius: 10px;
+}*/
